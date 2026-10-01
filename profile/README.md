@@ -26,19 +26,10 @@
 
 ---
 
-### 🏛️ Ecosystem & Product Portfolio
-
-```
-fleect (Venture Studio & Holding Organization)
-├── Open-Source Developer Tools  →  exhuma • aufnehmen • auterix
-├── Fleect Studio                →  Digital Toolkits & Operational Systems (@FleectStudio • studio.fleect.com)
-└── Software Platforms           →  Auditflect • Recto • Rehearsh • Wavelength
-```
-
-* **Publishing & Consumer Products**: Visit [**Fleect Studio**](https://github.com/FleectStudio) for our operational consumer systems and digital templates.
+* **Publishing Arm**: [**Fleect Studio**](https://github.com/FleectStudio) — Digital toolkits & operational systems ([studio.fleect.com](https://studio.fleect.com))
 * **Founder & Architecture Lead**: [Sapan Mozammel](https://github.com/SapanMozammel)
 * **Official Website**: [fleect.com](https://fleect.com)
-* **Corporate Inquiries**: [contact@fleect.com](mailto:contact@fleect.com)
+* **Inquiries**: [contact@fleect.com](mailto:contact@fleect.com)
 
 ---
 
