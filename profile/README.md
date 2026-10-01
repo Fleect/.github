@@ -7,42 +7,36 @@
 <br />
 
 <p align="center">
-  Fleect is the parent technology studio engineering resilient developer frameworks,<br />
-  autonomous workflow engines, and precision digital instruments.
+  Fleect is an independent technology studio engineering resilient software infrastructure &mdash;<br />
+  spanning high-performance UI primitives, distributed full-stack foundations, and autonomous developer tooling.
 </p>
 
 <br />
 
-[**fleect.com**](https://fleect.com) &nbsp;&bull;&nbsp; [**studio.fleect.com**](https://studio.fleect.com) &nbsp;&bull;&nbsp; [**contact@fleect.com**](mailto:contact@fleect.com)
+[**fleect.com**](https://fleect.com) &nbsp;&bull;&nbsp; [**contact@fleect.com**](mailto:contact@fleect.com)
 
 </div>
 
 ---
 
-### The Three Core Pillars
+### Core Engineering & Frameworks
 
-1. **Fleect Studio** &mdash; Commercial publishing arm delivering operational toolkits, consumer dispute generators, and turnkey self-guided workflows ([studio.fleect.com](https://studio.fleect.com)).
-2. **Enterprise & Pro SaaS** &mdash; Private platforms, distributed backend frameworks, and sovereign workflow systems.
-3. **Open-Source Foundations** &mdash; Public engineering standards advancing React 19 kinetic layouts, deterministic multi-agent architectures, and full-stack operational contracts:
-   * **[`exhuma`](https://github.com/Fleect/exhuma)** &mdash; React 19 kinetic layout primitives, GPU compositor mathematics, and sticky card architectures.
-   * **[`auterix`](https://github.com/Fleect/auterix)** &mdash; Universal multi-agent context engine and deterministic workflow standards across modern AI environments.
-   * **[`aufnehmen`](https://github.com/Fleect/aufnehmen)** &mdash; Enterprise MENN full-stack foundation with strict architectural gates and OpenAPI contracts.
+* **[`exhuma`](https://github.com/Fleect/exhuma)** &mdash; High-performance React 19 layout primitives, GPU-composited kinetic kernels, and sticky card architectures.
+* **[`aufnehmen`](https://github.com/Fleect/aufnehmen)** &mdash; Enterprise MENN (MongoDB, Express, Next.js, Node.js) full-stack foundation with strict architectural gates and OpenAPI contracts.
+* **[`auterix`](https://github.com/Fleect/auterix)** &mdash; Universal multi-agent context engine and deterministic workflow standard across modern AI coding environments.
 
 ---
 
-### Philosophy: The Rule of Three Flects
+### Operating Ventures
 
-* **`REFLECT`** &mdash; *Deep Introspection.* First-principles inquiry, absolute code verification, and zero assumptions.
-* **`DEFLECT`** &mdash; *Elastic Defenses.* Resilience under pressure, rigorous security boundaries, and graceful degradation.
-* **`INFLECT`** &mdash; *Sovereign Velocity.* High-cadence delivery, autonomous tooling, and independent architecture.
+* **[Fleect Studio](https://github.com/FleectStudio)** &mdash; Digital product publishing foundry and self-guided operational consumer toolkits ([studio.fleect.com](https://studio.fleect.com)).
 
 ---
 
-### Organization & Dispatch
+### Corporate
 
-* **Official Portal**: [fleect.com](https://fleect.com)
-* **Commercial Storefront**: [studio.fleect.com](https://studio.fleect.com)
 * **Founder & Systems Architect**: [Sapan Mozammel](https://github.com/SapanMozammel)
+* **Official Portal**: [fleect.com](https://fleect.com)
 * **General Inquiries**: [contact@fleect.com](mailto:contact@fleect.com)
 * **Customer Support**: [support@fleect.com](mailto:support@fleect.com)
 
