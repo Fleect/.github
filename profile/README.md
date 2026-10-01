@@ -26,13 +26,13 @@
 
 ---
 
-### 🏛️ Corporate Architecture & Divisions
+### 🏛️ Ecosystem & Product Portfolio
 
 ```
-fleect (Holding & Venture Studio)
-├── Engineering & Open Source   →  exhuma • aufnehmen • auterix
-├── Fleect Studio (Division 1)  →  Consumer Toolkits & Kits (@FleectStudio • studio.fleect.com)
-└── SaaS Platforms (Division 2) →  Auditflect • Recto • Rehearsh • Wavelength
+fleect (Venture Studio & Holding Organization)
+├── Open-Source Developer Tools  →  exhuma • aufnehmen • auterix
+├── Fleect Studio                →  Digital Toolkits & Operational Systems (@FleectStudio • studio.fleect.com)
+└── Software Platforms           →  Auditflect • Recto • Rehearsh • Wavelength
 ```
 
 * **Publishing & Consumer Products**: Visit [**Fleect Studio**](https://github.com/FleectStudio) for our operational consumer systems and digital templates.
