@@ -13,7 +13,7 @@
 
 <br />
 
-[**fleect.com**](https://fleect.com) &nbsp;&bull;&nbsp; [**studio.fleect.com**](https://studio.fleect.com) &nbsp;&bull;&nbsp; [**contact@fleect.com**](mailto:contact@fleect.com)
+[**fleect.com**](https://fleect.com) &nbsp;&bull;&nbsp; [**fleect.com/oss**](https://fleect.com/oss) &nbsp;&bull;&nbsp; [**studio.fleect.com**](https://studio.fleect.com) &nbsp;&bull;&nbsp; [**contact@fleect.com**](mailto:contact@fleect.com)
 
 </div>
 
@@ -23,8 +23,9 @@
 
 1. **Fleect Studio** &mdash; Commercial publishing arm delivering operational toolkits, consumer dispute generators, and turnkey self-guided workflows ([studio.fleect.com](https://studio.fleect.com)).
 2. **Enterprise & Pro SaaS** &mdash; Private platforms, distributed backend frameworks, and sovereign workflow systems.
-3. **Open-Source Foundations** &mdash; Public engineering standards advancing React 19 kinetic layouts, deterministic multi-agent architectures, and full-stack operational contracts:
-   * **[`exhuma`](https://github.com/Fleect/exhuma)** &mdash; React 19 kinetic layout primitives, GPU compositor mathematics, and sticky card architectures.
+3. **Open-Source Foundations** &mdash; Public engineering standards advancing universal kinetic mathematics, deterministic multi-agent architectures, and developer frameworks ([fleect.com/oss](https://fleect.com/oss)):
+   * **[`exhuma`](https://github.com/Fleect/exhuma)** &mdash; Universal kinetic physics component engine across 13 ecosystems ([`exhuma-ui.com`](https://exhuma-ui.com)). *A Fleect Artifact.*
+   * **[`react-render-kit`](https://github.com/Fleect/react-render-kit)** &mdash; Zero-dependency React render telemetry, hook diagnostics, and re-render intelligence.
    * **[`auterix`](https://github.com/Fleect/auterix)** &mdash; Universal multi-agent context engine and deterministic workflow standards across modern AI environments.
    * **[`aufnehmen`](https://github.com/Fleect/aufnehmen)** &mdash; Enterprise MENN full-stack foundation with strict architectural gates and OpenAPI contracts.
 
